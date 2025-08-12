@@ -18,56 +18,37 @@
 ---
 
 
-### 🛠 Skills
+## 🚀 Skills
+
 <p align="center">
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin:10px;animation: float 3s ease-in-out infinite;"/>
-  
+  <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
   <!-- Django -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50" style="margin:10px;animation: float 3.2s ease-in-out infinite;"/>
-  
+  <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
   <!-- HTML -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin:10px;animation: float 3.4s ease-in-out infinite;"/>
-  
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
   <!-- CSS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin:10px;animation: float 3.6s ease-in-out infinite;"/>
-  
-  <!-- SASS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50" height="50" style="margin:10px;animation: float 3.8s ease-in-out infinite;"/>
-  
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+  <!-- Sass -->
+  <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
   <!-- Bootstrap -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" style="margin:10px;animation: float 4s ease-in-out infinite;"/>
-  
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
   <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin:10px;animation: float 4.2s ease-in-out infinite;"/>
-  
+  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
   <!-- PHP -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" style="margin:10px;animation: float 4.4s ease-in-out infinite;"/>
-  
+  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
   <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" style="margin:10px;animation: float 4.6s ease-in-out infinite;"/>
-  
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
   <!-- PostgreSQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin:10px;animation: float 4.8s ease-in-out infinite;"/>
-  
+  <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
   <!-- Insomnia -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/insomnia/insomnia-original.svg" width="50" height="50" style="margin:10px;animation: float 5s ease-in-out infinite;"/>
-  
+  <img src="https://skillicons.dev/icons?i=insomnia" width="48" height="48" alt="Insomnia" />
   <!-- Postman -->
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" height="50" style="margin:10px;animation: float 5.2s ease-in-out infinite;"/>
-  
+  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
   <!-- WordPress -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" height="50" style="margin:10px;animation: float 5.4s ease-in-out infinite;"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
 </p>
 
-<!-- انیمیشن شناور -->
-<style>
-@keyframes float {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-8px); }
-  100% { transform: translateY(0px); }
-}
-</style>
 
 
 ---
