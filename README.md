@@ -1,6 +1,6 @@
 <!-- بنر یا عکس بالای پروفایل -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/parham-mohtasham/parham-mohtasham/main/assets/banner.gif" alt="Parham Mohtasham Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/parham-mohtasham/parhammohtasham/main/assets/banner.gif" alt="Parham Mohtasham Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Parham Mohtasham</h1>
@@ -30,8 +30,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parham-mohtasham&show_icons=true&theme=tokyonight" alt="Parham's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parham-mohtasham&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parhammohtasham&show_icons=true&theme=tokyonight" alt="Parham's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parhammohtasham&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -45,4 +45,4 @@
 
 ---
 
-⭐️ From [Parham Mohtasham](https://github.com/parham-mohtasham)
+⭐️ From [Parham Mohtasham](https://github.com/parhammohtasham)
