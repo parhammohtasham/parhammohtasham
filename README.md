@@ -56,7 +56,6 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parhammohtasham&show_icons=true&theme=tokyonight" alt="Parham's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parhammohtasham&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
