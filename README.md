@@ -25,6 +25,10 @@
   <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
   <!-- Django -->
   <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+  <!-- Fastapi -->
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
+  <!-- DRF -->
+  <img src="https://skillicons.dev/icons?i=drf" width="48" height="48" alt="django rest framework" />
   <!-- HTML -->
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
   <!-- CSS -->
@@ -33,20 +37,18 @@
   <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
   <!-- Bootstrap -->
   <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
-  <!-- JavaScript -->
-  <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-  <!-- PHP -->
-  <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
   <!-- MySQL -->
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
   <!-- PostgreSQL -->
   <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+  <!-- Redis -->
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+  <!-- Docker -->
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
   <!-- Insomnia -->
   <img src="https://skillicons.dev/icons?i=insomnia" width="48" height="48" alt="Insomnia" />
   <!-- Postman -->
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-  <!-- WordPress -->
-  <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
 </p>
 
 
