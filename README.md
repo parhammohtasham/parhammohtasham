@@ -27,14 +27,6 @@
   <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
   <!-- Fastapi -->
   <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
-  <!-- HTML -->
-  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-  <!-- CSS -->
-  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-  <!-- Sass -->
-  <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-  <!-- Bootstrap -->
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
   <!-- MySQL -->
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
   <!-- PostgreSQL -->
@@ -45,6 +37,14 @@
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
   <!-- Postman -->
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+  <!-- Sass -->
+  <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+  <!-- Bootstrap -->
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
 </p>
 
 
