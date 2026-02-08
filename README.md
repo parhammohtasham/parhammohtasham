@@ -28,7 +28,7 @@
   <!-- Fastapi -->
   <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
   <!-- DRF -->
-  <img src="https://skillicons.dev/icons?i=drf" width="48" height="48" alt="django rest framework" />
+  <img src="https://skillicons.dev/icons?i=django-rest-framework" width="48" height="48" alt="django-rest-framework" />
   <!-- HTML -->
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
   <!-- CSS -->
