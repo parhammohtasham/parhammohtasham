@@ -27,8 +27,6 @@
   <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
   <!-- Fastapi -->
   <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="fastapi" />
-  <!-- DRF -->
-  <img src="https://skillicons.dev/icons?i=django-rest-framework" width="48" height="48" alt="django-rest-framework" />
   <!-- HTML -->
   <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
   <!-- CSS -->
@@ -45,8 +43,6 @@
   <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
   <!-- Docker -->
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
-  <!-- Insomnia -->
-  <img src="https://skillicons.dev/icons?i=insomnia" width="48" height="48" alt="Insomnia" />
   <!-- Postman -->
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
 </p>
